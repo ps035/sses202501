@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>注音符號魔法之旅 教學計畫</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
@@ -932,7 +937,7 @@
                         <li>請先配合課本進入康康冒險島挑戰</li>
                     </ul>
 
-                    <h3 class="text-2xl font-bold text-indigo-700 mt-8 mb-4">� 注音冒險王APP簡介</h3>
+                    <h3 class="text-2xl font-bold text-indigo-700 mt-8 mb-4">  注音冒險王APP簡介</h3>
                     <h4 class="text-xl font-semibold text-indigo-800 mb-2">如何下載安裝?</h4>
                     <div class="flex flex-col md:flex-row items-center gap-8 mt-4">
                         <div class="text-center">
@@ -1047,4 +1052,4 @@
     </script>
 </body>
 </html>
-�
+ 
